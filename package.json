@@ -1,0 +1,22 @@
+{
+  "name": "u3_tarea3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
+    "body-parser": "^1.18.3",
+    "brand": "^999999999999999.9.9",
+    "express": "^4.16.4",
+    "http-status": "^1.3.1",
+    "mongoose": "^5.4.19",
+    "underscore": "^1.9.1",
+    "wagner-core": "^0.2.0"
+  }
+}
